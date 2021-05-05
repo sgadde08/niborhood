@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Niborhood</string>
+    <string name="my_portfolio">My Portfolio: </string>
+    <string name="price">$%1$S</string>
+</resources>
