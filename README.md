@@ -35,13 +35,13 @@ instead of all rows.
 
 * **Kotlin** - Code is 100% kotlin.
 
-###Assumptions
+### Assumptions
 Focused mainly on demonstrating multiple core components of Android
 
-###Future Enhancements
+### Future Enhancements
 * **UI**
 * **Add sections to Recycler View to show portfolio positions and watchlist(current
 everything is in the same list)**
-* **Add styles and animations **
-* **Add Room for offline support **
+* **Add styles and animations**
+* **Add Room for offline support**
 * **Add kdocs and tests**
