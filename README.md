@@ -40,6 +40,6 @@ Focused mainly on demonstrating multiple core components of Android
 ### Future Enhancements
 * **UI**
 * **Add sections to Recycler View to show portfolio positions and watchlist(current everything is in the same list)**
-* **Add styles and animations **
-* **Add Room for offline support **
+* **Add styles and animations**
+* **Add Room for offline support**
 * **Add kdocs and tests**
