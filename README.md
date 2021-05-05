@@ -2,7 +2,7 @@
 
 This application is a basic representation of stocks data from the given API.
 
-###Android concepts used:
+### Android concepts used:
 
 * **Android Architecture Components** - Used Android Architecture Components to address
 Separation of Concerns in Android development
@@ -34,13 +34,12 @@ instead of all rows.
 
 * **Kotlin** - Code is 100% kotlin.
 
-###Assumptions
+### Assumptions
 Focused mainly on demonstrating multiple core components of Android
 
-###Future Enhancements
+### Future Enhancements
 * **UI**
-* **Add sections to Recycler View to show portfolio positions and watchlist(current
-everything is in the same list)**
+* **Add sections to Recycler View to show portfolio positions and watchlist(current everything is in the same list)**
 * **Add styles and animations **
 * **Add Room for offline support **
 * **Add kdocs and tests**
